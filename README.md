@@ -33,4 +33,5 @@ jobs:
           version: 'v1.2.3'
 ```
 ---
-Devops Mario Fribla Gonzalez
+Mario Fribla
+***DevOps***
